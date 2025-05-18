@@ -1,42 +1,51 @@
-# vCard - Personal portfolio
+🤖 Sam Hasan-Silva | Machine Learning & Data Portfolio
+Welcome to my personal portfolio — a responsive website built with HTML, CSS, and JavaScript to showcase my work in Machine Learning, Data Science, and Data Analysis. This site reflects my journey through data, problem-solving, and building meaningful tools with code.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+🧠 About Me
+I'm Sam Hasan-Silva, a Data Analyst with a strong foundation in Machine Learning, Python programming, and cloud-based analytics. I'm passionate about turning raw data into actionable insights and building intelligent systems that make life easier.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+🎓 Education: B.S. in Computer Science
 
-## Demo new repo
+💼 Current Role: Data Analyst @ Jacuzzi Group | Corporate Finance
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+⚙️ Core Strengths: Data modeling, visualization, machine learning pipelines, and analytical storytelling
 
-## Prerequisites
+🔍 What You’ll Find on This Site
+📊 Projects: Real-world data science, ML models, and interactive dashboards
 
-Before you begin, ensure you have met the following requirements:
+🧠 Skills: Python, SQL, TensorFlow, Azure, and more
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+🧾 About Me: A deeper dive into my background and mission
 
-## Installing vCard
+📬 Contact Form: Let’s connect for collaboration or opportunities
 
-To install **vCard**, follow these steps:
+🧰 Tech & Tools
+Languages: Python, SQL
 
-Linux and macOS:
+Libraries: Pandas, NumPy, scikit-learn, TensorFlow, Matplotlib, Plotly
 
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+Cloud: Azure, AWS, GCP
 
-Windows:
+Databases: MySQL, PostgreSQL, SQLite
 
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+Other Tools: Git, Excel, Tableau
 
-## Contact
+🚀 Project Themes
+🧠 Machine Learning: Predictive models, classification, regression, neural networks
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+📈 Data Analysis: Business intelligence, market trends, time series forecasting
 
+📊 Visualization: Dashboards and storytelling with data
+
+☁️ Cloud Integration: Deploying models and managing data pipelines
+
+🌟 Bonus Facts
+I study AI, startups, like nearning new software, and personal development
+
+My mission: Use tech to solve real problems -
+
+📫 Let’s Connect
+🌐 LinkedIn
+
+📧 Email: sammyhasan17@gmail.com
 
